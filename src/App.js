@@ -83,7 +83,7 @@ function App() {
     // console.log(filteredPhotos);
     setFilteredPhotos(newFilteredPhotos);
 
-    const tester01 = "function scope tester01";
+    // const tester01 = "function scope tester01";
     
     /* dont do this because this will mutate our fetch data that we may need later when user changes the filter orientation */
     // setPhotos(filteredPhotos);
